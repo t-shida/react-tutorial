@@ -1,27 +1,22 @@
 [
     {
         "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "John Lennon",
+        "text": "1940年10月9日 - 1980年12月8日（40歳没）"
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Paul McCartney",
+        "text": "1942年6月18日（75歳）"
     },
     {
         "id": 1464988635157,
-        "author": "ben",
-        "text": "*abc*"
+        "author": "George Harrison",
+        "text": "1943年2月25日 - 2001年11月29日（58歳没）"
     },
     {
         "id": 1464988636500,
-        "author": "ben",
-        "text": "*abc*"
-    },
-    {
-        "id": 1464988717637,
-        "author": "evil",
-        "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+        "author": "Ringo Starr",
+        "text": "1940年7月7日（77歳）"
     }
 ]
